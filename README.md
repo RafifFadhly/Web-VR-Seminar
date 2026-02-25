@@ -1,7 +1,7 @@
 # VIRLI - VR Seminar
 Project Portofolio PKL di PT. Dieng Cyber Imdonesia tahun 2024
 
-![Screenshot](1.png)
+![Screenshot](virli.png)
 
 Link : [VIRLI - VR Seminar](https://virte.diengcyber.com)
 
